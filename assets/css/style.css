@@ -40,3 +40,18 @@ div > img {
     width: 50%;
     border-radius: 10px;
 }
+
+h2 {
+    color: rgb(30, 50, 13);
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 50; 
+}
+
+#form {
+
+}
+
+.text-center {
+    text-align: center;
+}
