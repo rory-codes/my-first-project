@@ -5,7 +5,8 @@
 
 body {
     background-color: lightgrey;
-    background-image: url("/assets/images/background-img.jpg");
+    background-image: url(../assets/images/background-img.jpg);
+    
 }
 
 
